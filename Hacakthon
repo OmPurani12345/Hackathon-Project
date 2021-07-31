@@ -10,8 +10,8 @@ while (loop < 10):
     noun3 = input("Choose a noun: ")
 
     print ("------------------------------------------")
-    print ("Be aware of",noun,"- footed", p_noun)
-    print ("For a duck may be somebody's", noun2,",")
+    print ("Be aware of",adjective,"- footed", p_noun)
+    print ("For a duck may be somebody's",noun,",")
     print ("Be kind to your",p_noun,"in",place)
     print ("Where the weather is always",adjective,".")
     print ()
